@@ -7,7 +7,7 @@ Helping students learn about geometrical shapes in 3D
 Run the following command in terminal:
 
 ```
-git clone https://github.com/silencediarys/HOLOGEOMETRY.git
+git clone https://github.com/martinkuzman/HoloGeometry.git
 ```
 
 
